@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+migrations
 
 # C extensions
 *.so
@@ -52,3 +53,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+.idea
+*~
+*.sqlite
